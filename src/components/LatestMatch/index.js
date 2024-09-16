@@ -29,7 +29,7 @@ const LatestMatch = props => {
           <img
             src={competingTeamLogo}
             className="latest-match-team-logo"
-            alt={`latest-${competingTeam}`}
+            alt={`competing team ${competingTeam}`}
           />
         </div>
         <hr className="separator" />
